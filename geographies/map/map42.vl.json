@@ -30,9 +30,7 @@
       "default": "no data"
     }
   ],
-  "selection": {
-    "highlight": {"type": "single", "empty": "none", "on": "mouseover"}
-  },
+
   "mark": {"type": "geoshape", "stroke": "#ffffff"},
   "encoding": {
     "color": {
@@ -43,7 +41,7 @@
       "scale": {"scheme": {"name": "blues", "extent": [0.25, 0.75]}}
     },
     "strokeWidth": {
-      "condition": [{"selection": "highlight", "value": 2}],
+      "condition": [],
       "value": 0.5
     },
     "tooltip": [
