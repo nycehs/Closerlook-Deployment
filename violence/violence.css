@@ -1,7 +1,7 @@
 .vcard {
     margin-top: 5px;
     margin-bottom: 5px;
-    border-left: 8px solid #e3f8c3;
+    border-left: 8px solid #5c8ea5;
     box-shadow: 10px 10px 5px 0px #dfdfdf;
     background-color: #ffffff;
     padding-bottom: 15px;
@@ -25,15 +25,15 @@
 }
 
 .vcard-title {
-    background-color: #e3f8c3;
+    background-color: #5c8ea5;
     padding: 15px;
-    color: #6439c9;
+    color: white;
     margin-bottom: 15px;
 }
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
     color: #fff;
-    background-color: #5224BC!important;
+    background-color: #b820bb!important;
 }
 
 
